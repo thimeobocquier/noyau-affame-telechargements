@@ -1,35 +1,35 @@
-# Noyau Affamé
+# Noyau Affamé — Windows
 
-Construisez une usine en pixel art pour transporter le bois, le transformer et nourrir la lave. Solo ou entre amis, jusqu’à quatre joueurs, avec curseurs en direct et vocal intégré.
+Construisez une usine en pixel art pour transformer, charger et transporter les ressources jusqu’au noyau. Jouez seul ou entre amis, avec pointeurs partagés et vocal intégré.
 
-**[Télécharger le jeu Windows](https://github.com/thimeobocquier/noyau-affame-telechargements/releases/latest/download/Noyau-Affame-Windows.zip)**
+[Télécharger le jeu Windows](https://github.com/thimeobocquier/noyau-affame-telechargements/releases/latest/download/Noyau-Affame-Windows.zip)
 
-Le lien télécharge directement l’archive complète, sans compte GitHub. Décompressez tous les fichiers puis ouvrez **Noyau Affame.exe**. Gardez les fichiers du dossier ensemble.
+Décompressez toute l’archive, puis ouvrez **Noyau Affame.exe**. Gardez tous les fichiers ensemble. Le solo fonctionne sans Internet.
 
-## Nouveautés v21
+## Nouveautés v22 : une vraie logistique à palettes
 
-- **Apprendre en jouant** : huit étapes guidées dans un atelier séparé, avec repères et matériaux d’entraînement. Abattez, transportez, construisez et câblez avant de produire. Rejouable depuis l’accueil ou le guide ; partie personnelle préservée.
-- **Presse à palettes** : 4 planches + 2 bûches donnent 1 palette. Niveau 4, 18 W.
-- **Papeterie** : 1 planche donne 2 papiers. Niveau 3, 12 W.
-- Stocks et avancement visibles ; matériaux conservés au déplacement et rendus à la vente. Déposez-les dans la trémie du dessus puis relâchez.
-- Nouveaux produits triables et livrables au noyau, objectifs et commandes communes. Anciennes usines reprenables.
+- Une palette vide vaut **10 $ de base**. Chargez jusqu’à **12 produits du même type** : bûches, planches, minerai, papier ou puces. Une palette pleine double la valeur de ses produits : **12 planches + palette = 29,2 $**, avant combo et amélioration. Le dépôt à la main conserve la réduction habituelle pendant deux secondes.
+- **Tapis à palettes** : arrêt manuel, minuté ou jusqu’au remplissage ; point d’arrêt et sens réglables.
+- **Bras chargeur mobile** : roule sur un sol plat, prend les produits et remplit la palette. Type de produit et rayon réglables.
+- **Transporteur** : prend et dépose une palette entière à deux positions choisies, devant ou derrière les tapis. Attend si le dépôt est occupé ou si le trajet est interrompu.
+- **Ascenseur** : monte ou descend entre deux à quatre étages. Choisissez l’étage de collecte et la destination de chaque contenu ; commandes manuelles disponibles. Une cage obstruée bloque le mouvement.
+- **Dépalettiseur** : récupère les produits et rend la palette vide pour réutilisation.
+- **Atelier de puces** : 2 minerais + 2 papiers donnent 2 puces, cycle de 2 secondes, 24 W.
 
-## Mises à jour automatiques
+Toutes ces machines demandent du courant. Cliquez-les avec la Main pour ouvrir les réglages. Les produits chargés sont stockés sous forme de compteurs : une palette pleine remplace treize objets physiques. Les palettes chargées et les marchandises dans les machines sont conservées au relancement.
 
-Avec le lanceur v19 ou ultérieur, les nouveautés se téléchargent en arrière-plan et s’appliquent au prochain lancement. **Fermez puis relancez le jeu chez chaque ami pour appliquer la v21.** Les sauvegardes restent conservées. Paramètres → Réglages → Mises à jour permet de vérifier. Sans Internet, le solo reste disponible.
+Le **Guide → Essayer l’atelier palettes** propose une chaîne déjà construite et modifiable : bras, transporteur, ascenseur et livraison à l’étage 3. Recevez les matériaux et observez. Cet atelier gratuit garde votre partie personnelle. Le tutoriel de base en huit étapes reste disponible avec **Apprendre en jouant**.
 
-Les joueurs encore en v18 doivent télécharger l’archive une fois pour obtenir ce lanceur. Les mises à jour remplacent le jeu ; une évolution du moteur Windows demandera une nouvelle application.
+La presse à palettes utilise toujours 4 planches + 2 bûches (18 W, 1,8 seconde). La papeterie transforme 1 planche en 2 papiers (12 W, 1,2 seconde).
 
 ## Jouer entre potes
 
-Tous les participants doivent utiliser la v21. Choisissez **Jouer entre potes**, créez une usine et partagez le code du salon. L’hôte garde sa fenêtre ouverte et visible. La partie commune est sauvegardée chez lui et reste séparée du solo. Après son redémarrage, il peut reprendre l’usine et partager son nouveau code.
+Tous les participants doivent lancer **v22**. Depuis l’accueil, **Jouer entre potes → Créer une usine**, puis partagez le code du salon pour deux à quatre joueurs. L’hôte garde sa fenêtre ouverte et visible ; l’usine commune est sauvegardée chez lui. La partie solo reste séparée.
 
-Dans le salon, **Écouter le vocal** permet d’entendre sans micro ; **Activer le micro** permet de parler. Le micro est coupé au départ et libéré en quittant le salon. Le volume des amis est réglable ; couper leur son ne coupe pas votre micro. Utilisez un casque. Aucun enregistrement ni caméra.
+Les nouveaux stocks, palettes, robots et étages sont partagés. Le vocal fonctionne avec **Écouter le vocal** ou **Activer le micro** ; le micro est coupé au départ et libéré en quittant. Utilisez un casque. Certains réseaux restrictifs peuvent bloquer la connexion entre joueurs.
 
-Certains réseaux restrictifs peuvent bloquer les connexions directes. Les tests utilisent plusieurs clients et processus Windows sur un même ordinateur ; un essai sur deux réseaux différents reste nécessaire.
+## Mises à jour
 
-## En cas de problème
+Les lanceurs **v19 et suivants** téléchargent les nouveautés en arrière-plan et les appliquent au prochain lancement. Fermez puis relancez chez chacun pour utiliser la même version. Les joueurs v18 téléchargent une version récente une fois. Les sauvegardes précédentes sont conservées.
 
-Paramètres → Sauvegarde → **Enregistrer le journal** exporte les diagnostics. Le secours du bois annonce son nettoyage et conserve machines, stocks, carburant, minerais et progression. Le bois dérivé comprend aussi palettes et papier.
-
-Ce dépôt distribue les versions Windows et les fichiers du jeu servant à la mise à jour automatique.
+Les mises à jour concernent le jeu, avec ses bibliothèques et interfaces ; le moteur Windows reste celui du paquet installé. Le secours du bois conserve les stocks des machines et récupère le minerai et les puces chargés sur les palettes retirées. Les journaux restent disponibles dans les Paramètres.

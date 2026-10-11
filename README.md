@@ -6,7 +6,13 @@ Construisez une usine en pixel art pour transformer, charger et transporter les 
 
 Décompressez toute l’archive, puis ouvrez **Noyau Affame.exe**. Gardez tous les fichiers ensemble. Le solo fonctionne sans Internet.
 
-## Nouveautés v22 : une vraie logistique à palettes
+## Nouveautés v23 : un atelier plus clair
+
+La barre de construction est organisée en **Transport, Machines, Palettes, Tri et Énergie**. Une seule famille s'affiche à la fois, avec séparateur et commandes **Main, Réseau, Vendre** toujours accessibles. Les cartes ont des noms lisibles, prix distincts, niveaux requis et une sélection bien visible.
+
+Les raccourcis gardent leur rôle et ouvrent automatiquement la bonne famille ; les catégories se parcourent aussi avec les flèches du clavier. Le tutoriel, les machines, les recettes et les sauvegardes sont conservés. Le panneau des machines s'arrête au-dessus de la barre.
+
+## La logistique à palettes de v22
 
 - Une palette vide vaut **10 $ de base**. Chargez jusqu’à **12 produits du même type** : bûches, planches, minerai, papier ou puces. Une palette pleine double la valeur de ses produits : **12 planches + palette = 29,2 $**, avant combo et amélioration. Le dépôt à la main conserve la réduction habituelle pendant deux secondes.
 - **Tapis à palettes** : arrêt manuel, minuté ou jusqu’au remplissage ; point d’arrêt et sens réglables.
@@ -24,7 +30,7 @@ La presse à palettes utilise toujours 4 planches + 2 bûches (18 W, 1,8 seconde
 
 ## Jouer entre potes
 
-Tous les participants doivent lancer **v22**. Depuis l’accueil, **Jouer entre potes → Créer une usine**, puis partagez le code du salon pour deux à quatre joueurs. L’hôte garde sa fenêtre ouverte et visible ; l’usine commune est sauvegardée chez lui. La partie solo reste séparée.
+Les versions **v22 et v23** peuvent jouer ensemble. Appliquez v23 pour profiter du nouvel atelier. Depuis l’accueil, **Jouer entre potes → Créer une usine**, puis partagez le code du salon pour deux à quatre joueurs. L’hôte garde sa fenêtre ouverte et visible ; l’usine commune est sauvegardée chez lui. La partie solo reste séparée.
 
 Les nouveaux stocks, palettes, robots et étages sont partagés. Le vocal fonctionne avec **Écouter le vocal** ou **Activer le micro** ; le micro est coupé au départ et libéré en quittant. Utilisez un casque. Certains réseaux restrictifs peuvent bloquer la connexion entre joueurs.
 

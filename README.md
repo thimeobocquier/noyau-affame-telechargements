@@ -1,24 +1,25 @@
-Noyau Affamé v26 — transport industriel
+Noyau Affamé v27 — pixel art fin
 
 Décompressez toute l’archive puis ouvrez Noyau Affame.exe. Gardez les fichiers ensemble.
 
-Nouvelles pièces : trieur à trois sorties, tapis distributeur à hauteur réglable,
-entrepôt tampon de 240 places, ascenseur pour bûches et produits avec porte.
-Le transporteur peut chercher automatiquement les palettes sur une voie plate.
-Les grandes machines acceptent les matériaux par le dessus et les côtés.
-La veille automatique économise le courant quand les machines attendent.
-Les générateurs peuvent être réglés jusqu’à ×10 (400 W), avec davantage de carburant.
-Les zones sont agrandies à droite ; arbres, relief du parcours et anciennes machines conservés.
+Pixel art avec détails trois fois plus fins : bois, feuillages, terrain et machines.
+Contours nets, ciel aux transitions plus fines, nouvelles rainures, vis et ouïes des machines.
+Les tailles des machines, les prix, les stocks et les collisions restent les mêmes.
 
-Atelier → Industrie : tapis distributeur, entrepôt et ascenseur de produits.
-Atelier → Tri : trieur trois sorties. Cliquez une machine avec la Main pour ses réglages.
+Paramètres → Réglages → Pixel art : Classiques, Fins, Très fins (par défaut).
+Graphismes : Détaillés ou Performances pour réduire les effets d’ambiance.
+La résolution du dessin s’adapte au zoom ; une vue très éloignée utilise le rendu léger.
+
+Les textures sont préparées sur un thread séparé, avec repli si les Workers sont indisponibles.
+Le dessin des détails est limité à la vue, les tas utilisent des portions mises en cache,
+et les contrôles de sortie des machines recherchent seulement les obstacles proches.
+La physique reste sur le moteur actuel. La mise à jour ne promet pas un nombre de FPS fixe.
+
+Tous les outils industriels de v26 restent disponibles. Sauvegardes existantes conservées.
+Coopération compatible avec le protocole v26. Vocal inchangé, micro sur demande.
 
 Les lanceurs v19 et suivants téléchargent la mise à jour automatiquement.
-Fermez puis relancez pour appliquer v26. Tous les joueurs du salon doivent être en v26.
-Les sauvegardes existantes restent utilisables. Avec v18, prenez une fois cette archive.
+Fermez puis relancez pour appliquer v27. Avec v18, prenez une fois cette archive.
 
 Lien à partager :
 https://github.com/thimeobocquier/noyau-affame-telechargements/releases/latest/download/Noyau-Affame-Windows.zip
-
-Les trajets des chariots demandent une voie plate et les cages d’ascenseur doivent
-rester dégagées. L’optimisation générale des grandes usines sera une étape suivante.

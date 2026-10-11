@@ -1,17 +1,24 @@
-# Noyau Affamé — Windows v24
+Noyau Affamé v26 — transport industriel
 
-[Télécharger le jeu pour Windows](https://github.com/thimeobocquier/noyau-affame-telechargements/releases/latest/download/Noyau-Affame-Windows.zip)
+Décompressez toute l’archive puis ouvrez Noyau Affame.exe. Gardez les fichiers ensemble.
 
-Décompressez toute l’archive, puis ouvrez **Noyau Affame.exe**. Gardez tous les fichiers ensemble.
+Nouvelles pièces : trieur à trois sorties, tapis distributeur à hauteur réglable,
+entrepôt tampon de 240 places, ascenseur pour bûches et produits avec porte.
+Le transporteur peut chercher automatiquement les palettes sur une voie plate.
+Les grandes machines acceptent les matériaux par le dessus et les côtés.
+La veille automatique économise le courant quand les machines attendent.
+Les générateurs peuvent être réglés jusqu’à ×10 (400 W), avec davantage de carburant.
+Les zones sont agrandies à droite ; arbres, relief du parcours et anciennes machines conservés.
 
-La v24 ajoute **Pause / Reprendre** : la physique, les machines, les arbres, le carburant, la combustion, le temps et les gains s’arrêtent. La reprise continue à l’endroit où vous vous êtes arrêté. La touche Pause du clavier fonctionne aussi.
+Atelier → Industrie : tapis distributeur, entrepôt et ascenseur de produits.
+Atelier → Tri : trieur trois sorties. Cliquez une machine avec la Main pour ses réglages.
 
-Vous pouvez déplacer la caméra, consulter les menus et continuer à parler dans le vocal. Les actions qui changent l’usine attendent la reprise.
+Les lanceurs v19 et suivants téléchargent la mise à jour automatiquement.
+Fermez puis relancez pour appliquer v26. Tous les joueurs du salon doivent être en v26.
+Les sauvegardes existantes restent utilisables. Avec v18, prenez une fois cette archive.
 
-En multijoueur, chacun peut mettre l’usine en pause ou la reprendre. Le nom du joueur s’affiche ; les amis qui rejoignent voient aussi la pause, et elle est conservée dans la sauvegarde commune. Tous les joueurs du salon doivent utiliser **v24**.
+Lien à partager :
+https://github.com/thimeobocquier/noyau-affame-telechargements/releases/latest/download/Noyau-Affame-Windows.zip
 
-L’atelier conserve ses cinq familles : Transport, Machines, Palettes, Tri et Énergie. Main, Réseau et Vendre restent accessibles. Le guide propose un atelier palettes avec bras, transporteur et ascenseur.
-
-Pour jouer entre amis : **Jouer entre potes → créer une usine → partager le code du salon**. Cliquez sur Écouter le vocal ou Activer le micro pour discuter.
-
-Les lanceurs v19 et suivants téléchargent les mises à jour automatiquement. Fermez puis relancez le jeu pour appliquer v24. Vos sauvegardes sont conservées. Avec v18, téléchargez une fois l’archive actuelle.
+Les trajets des chariots demandent une voie plate et les cages d’ascenseur doivent
+rester dégagées. L’optimisation générale des grandes usines sera une étape suivante.
